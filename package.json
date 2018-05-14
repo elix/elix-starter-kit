@@ -1,0 +1,11 @@
+{
+  "name": "elix-starter-kit",
+  "version": "1.0.0",
+  "description": "Boilerplate project for creating a project that uses Elix components",
+  "license": "MIT",
+  "dependencies": {
+    "@webcomponents/webcomponentsjs": "^2.0.0",
+    "elix": "2.1.0",
+    "webcomponentsjs": "^1.0.2"
+  }
+}
