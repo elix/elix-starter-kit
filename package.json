@@ -4,7 +4,6 @@
   "description": "Boilerplate project for creating a project that uses Elix components",
   "license": "MIT",
   "dependencies": {
-    "@webcomponents/webcomponentsjs": "^2.2.10",
     "elix": "^6.0.2"
   }
 }
